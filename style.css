@@ -12,14 +12,15 @@ body{
     flex-direction: column;
 }
 
-/* CABEÇALHO*/
+/* CABEÇALHO */
 .header{
-    background:linear-gradent(135deg, #0077cc, #005fa3);
-    color: #ffffff;
+    background: linear-gradient(135deg, #0077cc, #005fa3);
+    color: white;
     text-align: center;
     padding: 25px 20px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
 }
+
 .logo-area{
     display: flex;
     flex-direction: column;
