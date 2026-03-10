@@ -13,10 +13,11 @@ body{
 }
 
 /* CABEÇALHO*/
-header{
+.header{
     background:linear-gradent(135deg, #0077cc, #005fa3);
     color: #ffffff;
     text-align: center;
     padding: 25px 20px;
     box-shadow: 0 4px 12px rgba(0, 0, 0);
 }
+
